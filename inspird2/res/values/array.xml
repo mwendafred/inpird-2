@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="quotes">
+<item>Place some quotes in here with the author like:</item>
+<item>"Awesome Quote Here" - Awesome Guy</item>
+</array>
+
+<array name="bible">
+<item>Put Bible Verses Here (KJV Only)</item>
+<item>"Then Peter said unto them, repent, be baptized, every one of you in the name of Jesus Christ for the remission of your sins and ye shall receive the gift of the Holy Ghost" -Acts 2:28 (KJV)</item>
+</array>
+
+</resources>
