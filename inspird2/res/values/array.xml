@@ -2,7 +2,580 @@
 <resources>
 <array name="quotes">
 <item>Place some quotes in here with the author like:</item>
-<item>"Awesome Quote Here" - Awesome Guy</item>
+<item>"My experience is that as soon as people are old enough to know better, they don't know anything at all."	Oscar Wilde</item>
+<item>"No woman should ever be quite accurate about her age. It looks so calculating."	Oscar Wilde</item>
+<item>"Well enough for old folks to rise early, because they have done so many mean things all their lives they can't sleep anyhow."	Mark Twain</item>
+<item>"Old age comes on suddenly, and not gradually as is thought."	Emily Dickinson</item>
+<item>"We turn not older with years, but newer every day."	Emily Dickinson</item>
+<item>"When they tell me I'm too old to do something, I attempt it immediately."	Pablo Picasso</item>
+<item>"You're never too old to become younger."	Mae West</item>
+<item>"The older I grow the more I distrust the familiar doctrine that age brings wisdom."	Henry Mencken</item>
+<item>"You know you're getting old when the candles cost more than the cake."	Bob Hope</item>
+<item>"Middle age is when your age starts to show around your middle."	Bob Hope</item>	
+<item>"There is still no cure for the common birthday."	John Glenn</item>	
+<item>"It's not how old you are, it's how hard you work at it."	Jonah Barrington</item>
+<item>"Aging is mandatory. Maturity is optional."	Chris Antonak</item>	
+<item>"Anyone can get old, all you have to do is live long enough."	Groucho Marx</item>
+<item>"Age is a very high price to pay for maturity."	Tom Stoppard</item>
+<item>"And in the end, it's not the years in your life that count. It's the life in your years."	Abraham Lincoln</item>
+<item>"Middle age is when you've met so many people that every new person you meet reminds you of someone else."	Ogden Nash</item>
+<item>"He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden."	Plato</item>
+<item>"My Grandmother is over eighty and still doesn't need glasses. Drinks right out of the bottle."	Henny Youngman</item>
+<item>"The advice of their elders to young men is very apt to be as unreal as a list of the hundred best books."	Oliver Wendell Holmes</item>
+<item>"America...just a nation of two hundred million used car salesmen with all the money we need to buy guns and no qualms about killing anybody else in the world who tries to make us uncomfortable."	Hunter S. Thompson</item>
+<item>"You give me a credit to which I have no claim in calling me 'the writer of the Constitution of the United States.' This was not, like the fabled Goddess of Wisdom, the offspring of a single brain. It ought to be regarded as the work of many heads and many hands."	James Madison</item>
+<item>"The Americans combine the notions of Christianity and of liberty so intimately in their minds, that it is impossible to make them conceive the one without the other."	Alexis de Tocqueville</item>
+<item>"It was by the sober sense of our citizens that we were safely and steadily conducted from monarchy to republicanism, and it is by the same agency alone we can be kept from falling back."	Thomas Jefferson</item>
+<item>"Let the word go forth from this time and place, to friend and foe alike, that the torch has been passed to a new generation of Americans."	John F. Kennedy</item>
+<item>"My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man."	John F. Kennedy</item>
+<item>"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty."	John F. Kennedy</item>
+<item>"To those new States whom we welcome to the ranks of the free, we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny."	John F. Kennedy</item>
+<item>"My dream is of a place and a time where America will once again be seen as the last best hope of earth."	Abraham Lincoln</item>
+<item>"When you stand for your liberty, we will stand with you."	George W. Bush</item>
+<item>"The survival of liberty in our land increasingly depends on the success of liberty in other lands."	George W. Bush</item>
+<item>"The whole life of an American is passed like a game of chance, a revolutionary crisis, or a battle."	Alexis de Tocqueville</item>
+<item>"Born often under another sky, placed in the middle of an always moving scene, himself driven by the irresistible torrent which draws all about him, the American has no time to tie himself to anything, he grows accustomed only to change, and ends by regarding it as the natural state of man. He feels the need of it, more he loves it; for the instability; instead of meaning disaster to him, seems to give birth only to miracles all about him."	Alexis de Tocqueville</item>
+<item>"Americans are so enamored of equality, they would rather be equal in slavery than unequal in freedom."	Alexis de Tocqueville</item>
+<item>"In America the majority raises formidable barriers around the liberty of opinion; within these barriers an author may write what he pleases, but woe to him if he goes beyond them."	Alexis de Tocqueville</item>
+<item>"When American(s) ask for the cooperation of (their) fellow citizens, it is seldom refused; and I have often seen it afforded spontaneously and with great good will."	Alexis de Tocqueville</item>
+<item>"The surface of American society is covered with a layer of democratic paint, but from time to time one can see the old aristocratic colours breaking through."	Alexis de Tocqueville</item>	
+<item>"In the United States the majority undertakes to supply a multitude of ready-made opinions for the use of individuals, who are thus relieved from the necessity of forming opinions of their own."	Alexis de Tocqueville</item>
+<item>"There is hardly a political question in the United States which does not sooner or later turn into a judicial one."	Alexis de Tocqueville</item>
+<item>"America is great because she is good. If America ceases to be good, America will cease to be great."	Alexis de Tocqueville</item>
+<item>"It belongs to human nature to hate those you have injured."	Tacitus</item>
+<item>"Any reviewer who expresses rage and loathing for a novel is preposterous. He or she is like a person who has put on full armor and attacked a hot fudge sundae."	Kurt Vonnegut</item>
+<item>"Anger as soon as fed is dead. 'Tis starving makes it fat."	Emily Dickinson</item>
+<item>"I know of no more disagreeable situation than to be left feeling generally angry without anybody in particular to be angry at."	Frank Moore Colby</item>
+<item>"Many people lose their tempers merely from seeing you keep yours."	Frank Moore Colby</item>
+<item>"When angry count to four; when very angry, swear."	Mark Twain</item>
+<item>"Anger is never without an argument, but seldom with a good one."	George Savile</item>
+<item>"When you give a lesson in meanness to a critter or a person don't be surprised if they learn their lesson."	Will Rogers</item>
+<item>"Look not back in anger, nor forward in fear, but around you in awareness."	Ross Hersey</item>
+<item>"A man is measured by the size of things that anger him."	Geof Greenleaf</item>
+<item>"When angry, count ten before you speak; if very angry, a hundred."	Thomas Jefferson</item>
+<item>"Anger will never disappear so long as thoughts of resentment are cherished in the mind. Anger will disappear just as soon as thoughts of resentment are forgotten."	Siddhartha Buddha</item>
+<item>"I was angry with my friend I told my wrath, my wrath did end. I was angry with my foe: I told it not, my wrath did grow."	William Blake</item>
+<item>"The degree of one's emotions varies inversely with one's knowledge of the facts: the less you know the hotter you get."	Bertrand Russell</item>
+<item>"I conquered my hostility by putting it away until the day I might need it."	Nachman of Bratslav</item>
+<item>"An angry man is unfit to pray."	Nachman of Bratslav</item>
+<item>"You can't shake hands with a clenched fist."	Indira Gandhi</item>
+<item>"In time we hate that which we often fear."	William Shakespeare</item>
+<item>"I keep my good health by having a very bad temper, kept under good control."	Theodore Roosevelt</item>
+<item>"The greatest remedy for anger is delay."	Thomas Paine</item>
+<item>"A door is what a dog is perpetually on the wrong side of."	Ogden Nash</item>
+<item>"All animals are equal but some animals are more equal than others."	George Orwell</item>
+<item>"A 'geek' by definition is someone who eats live animals....I've never eaten live animals."	Crispin Glover</item>
+<item>"Women and cats will do as they please, and men and dogs should relax and get used to the idea."	Robert Heinlein</item>
+<item>"Man [has] always assumed that he was more intelligent than dolphins because he had achieved so much-the wheel, New York, wars and so on-while all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man-for precisely the same reason."	Douglas Adams</item>
+<item>"I believe that our Heavenly Father invented man because he was disappointed in the monkey."	Mark Twain</item>
+<item>"I have from an early age abjured the use of meat, and the time will come when men will look upon the murder of animals as they now look upon the murder of men."	Leonardo da Vinci</item>
+<item>"Remember if you marry for beauty, thou bindest thyself all thy life for that which perchance, will neither last nor please thee one year: and when thou hast it, it will be to thee of no price at all."	Emily Dickinson</item>
+<item>"Beauty is not caused. It is."	Emily Dickinson</item>
+<item>"Beauty is a sign of intelligence."	Andy Warhol</item>
+<item>"The flowers anew, returning seasons bring! But beauty faded has no second spring."	Frank Moore Colby</item>
+<item>"I have always been offended by the song that says, 'Everything is beautiful in its own way.' If everything is beautiful, then the word 'beautiful' has no meaning. If everything were purple, there would be no word 'purple' in the language because it would not distinguish one thing from another."	Thomas Sowell</item>
+<item>"In the Orthodox spiritual tradition, the ultimate moral question we ask is the following: Is what we are doing, is what I am doing, beautiful or not?"	Carolyn Gifford</item>
+<item>"Beautiful young people are accidents of nature, But beautiful old people are works of art."	Eleanor Roosevelt</item>
+<item>"It is better to be beautiful than to be good. But it is better to be good than to be ugly."	Oscar Wilde</item>
+<item>"The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."	Helen Keller</item>
+<item>"Think of all the beauty that's still left in and around you, and be happy."	Anne Frank</item>
+<item>"Calm, lasting beauty comes only in a dream, and this solace the world had thrown away when in its worship of the real it threw away the secrets of childhood and innocence."	H.P. Lovecraft</item>
+<item>"Everything has beauty, but not everyone sees it."	Confucius</item>
+<item>"It is hard, if not impossible, to snub a beautiful woman - they remain beautiful and the rebuke recoils."	Winston Churchill</item>
+<item>"The criterion of true beauty is that it increases on examination; if false, that it lessens. There is therefore, something in true beauty that corresponds with right reason, and is not the mere creation of fancy."	Fulke Greville</item>
+<item>"No; we have been as usual asking the wrong question. It does not matter a hoot what the mockingbird on the chimney is singing. The real and proper question is: Why is it beautiful?"	Annie Dillard</item>
+<item>"There is no cosmetic for beauty like happiness."	Marguerite Gardiner Blessington</item>
+<item>"Strange that the vanity which accompanies beauty -- excusable, perhaps, when there is such great beauty, or at any rate understandable -- should persist after the beauty was gone."	Mary Arnim</item>
+<item>"Beauty is a short-lived tyranny."	Socrates</item>
+<item>"Beauty is all very well at first sight; but whoever looks at it when it has been in the house three days?"	George Bernard Shaw</item>
+<item>"We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes."	Ralph Waldo Emerson</item>
+<item>"The object of teaching a child is to enable him to get along without a teacher."	Elbert Hubbard</item>
+<item>"There are perhaps no days of our childhood we lived so fully as those we spent with a favorite book."	Marcel Proust</item>
+<item>"If there is anything we wish to change in the child, we should first examine it and see whether it is not something that could better be changed in ourselves."	Carl Jung</item>
+<item>"Children are educated by what the grown-up is and not by his talk."	Carl Jung</item>
+<item>"Motherhood is a biological fact, while fatherhood is a social invention."	Margaret Mead</item>
+<item>"Being born is like being kidnapped. And then sold into slavery."	Andy Warhol</item>
+<item>"Ask your child what he wants for dinner only if he's buying."	Fran Lebowitz</item>
+<item>"How is it that little children are so intelligent and men so stupid? It must be education that does it."	Alexandre Dumas</item>
+<item>"All children are artists. The problem is how to remain an artist once he grows up."	Pablo Picasso</item>
+<item>"A baby is God's opinion that life should go on."	Carl Sandburg</item>
+<item>"Kids are cute, babies are cute, puppies are cute. The little things are cute. See, nature did this on purpose so that we would want to take care of our young. Made them cute. Tricked us. Then gradually they get older and older, until one day your mother sits you down and says, 'You know, I think you're ugly enough to get your own apartment.'"	Cathy Ladman</item>
+<item>"There is no finer investment for any community than putting milk into babies."	Winston Churchill</item>
+<item>"A baby is an inestimable blessing and bother."	Mark Twain</item>
+<item>"Have children while your parents are still young enough to take care of them."	Rita Rudner</item>
+<item>"Educate your children to self-control, to the habit of holding passion and prejudice and evil tendencies subject to an upright and reasoning will, and you have done much to abolish misery from their future and crimes from society."	Benjamin Franklin</item>
+<item>"We each have the kind of children we deserve."	Nachman of Bratslav</item>
+<item>"The man who disobeys his parents will have disobedient sons."	Nachman of Bratslav</item>
+<item>"A strict master will not have understanding sons."	Nachman of Bratslav</item>
+<item>"Providence protects children and idiots. I know because I have tested it."	Mark Twain</item>
+<item>"Never worry about the size of your Christmas tree. In the eyes of children, they are all thirty feet tall."	Larry Wilde</item>
+<item>"What I just said is the fundamental, end-all, final, not-subject-to-opinion absolute truth, depending on where you're standing."	Steve Martin</item>
+<item>"If I could drop dead right now, I'd be the happiest man alive."	Samuel Goldwyn</item>
+<item>"Outside of a dog, a book is a man's best friend. Inside of a dog, it is too dark to read."	Groucho Marx</item>
+<item>"It is a mistake to think you can solve any major problems just with potatoes."	Douglas Adams</item>
+<item>"Please, if you ever see me getting beaten up by the police, please put your video camera down and help me."	Bobcat Goldthwait</item>
+<item>"Thou shall not kill. Thou shall not commit adultery. Don't eat pork. I'm sorry, what was that last one? Don't eat pork? Is that the word of God, or is that pigs trying to outsmart everybody?"	Jon Stewart</item>
+<item>"If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family anatidae on our hands."	Douglas Adams</item>
+<item>"Stand-up comedy is transient. History shows that you can stand up for so long; after that, you're asked to sit down."	Steve Martin</item>
+<item>"Don't worry about the world coming to an end today. It's already tomorrow in Australia."	Charles Schulz</item>
+<item>"I'm very proud of my gold pocket watch. My grandfather, on his deathbed, sold me this watch."	Woody Allen</item>
+<item>"My Grandmother is over eighty and still doesn't need glasses. Drinks right out of the bottle."	Henny Youngman</item>
+<item>"I told the doctor I broke my leg in two places. He told me to quit going to those places."	Henny Youngman</item>
+<item>"I am so amazingly cool you could keep a side of meat in me for a month. I am so hip I have difficulty seeing over my pelvis."	Douglas Adams</item>
+<item>"Nothing travels faster than the speed of light, with the possible exception of bad news, which obeys its own set of laws."	Douglas Adams</item>
+<item>"Happiness is having a large, loving, caring, close-knit family in another city."	George Burns</item>
+<item>"Those are my principles. If you don't like them I have others."	Groucho Marx</item>
+<item>"I told my psychiatrist that everyone hates me. He said I was being ridiculous - everyone hasn't met me yet."	Rodney Dangerfield</item>
+<item>"I just finished my first book. Pretty soon, I'm gonna read another."	Rodney Dangerfield</item>
+<item>"I'm at an age where I think more about food than sex. Last week I put a mirror over my dining room table."	Rodney Dangerfield</item>
+<item>"My grandmother started walking five miles a day when she was sixty. She's ninety-five now, and we don't know where the hell she is."	Ellen DeGeneres</item>
+<item>"The Goliath of totalitarianism will be brought down by the David of the microchip."	Ronald Reagan</item>
+<item>"Today, you always know whether you are on the Internet or on your PC's hard drive. Tomorrow, you will not care and may not even know."	Bill Gates</item>
+<item>"The object of teaching a child is to enable him to get along without a teacher."	Elbert Hubbard</item>
+<item>"Everyone who is incapable of learning has taken to teaching."	Oscar Wilde</item>
+<item>"Men are born ignorant, not stupid; they are made stupid by education."	Bertrand Russell</item>
+<item>"We are shut up in schools and college recitation rooms for ten or fifteen years, and come out at last with a bellyful of words and do not know a thing."	Ralph Waldo Emerson</item>
+<item>"An education isn't how much you have committed to memory, or even how much you know. It's being able to differentiate between what you know and what you don't."	Malcolm Forbes</item>
+<item>"Education's purpose is to replace an empty mind with an open one."	Malcolm Forbes</item>
+<item>"What sculpture is to a block of marble, education is to the soul."	Joseph Addison</item>
+<item>"If I ran a school, I'd give the average grade to the ones who gave me all the right answers, for being good parrots. I'd give the top grades to those who made a lot of mistakes and told me about them, and then told me what they learned from them."	Buckminster Fuller</item>
+<item>"The secret of education is respecting the pupil."	Ralph Waldo Emerson</item>
+<item>"We are faced with the paradoxical fact that education has become one of the chief obstacles to intelligence and freedom of thought."	Bertrand Russell</item>
+<item>"The recipe for perpetual ignorance is: be satisfied with your opinions and content with your knowledge."	Elbert Hubbard</item>
+<item>"The mind of the thoroughly well-informed man is a dreadful thing. It is like a bric-à-brac shop, all monsters and dust, with everything priced above its proper value."	Oscar Wilde</item>
+<item>"Life is not divided into semesters. You don't get summers off and very few employers are interested in helping you find yourself."	Bill Gates</item>
+<item>"From kindergarten to graduation, I went to public schools, and I know that they are a key to being sure that every child has a chance to succeed and to rise in the world."	Dick Cheney</item>
+<item>"It is the supreme art of the teacher to awaken joy in creative expression and knowledge."	Albert Einstein</item>
+<item>"Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before. He is full of murderous resentment of people who are ignorant without having come by their ignorance the hard way."	Kurt Vonnegut</item>
+<item>"People will pay more to be entertained than educated."	Johnny Carson</item>
+<item>"While the romanticized ideal of universal public education resonates with the cognoscenti who oppose vouchers, poor urban families just want the best education for their children, who will certainly need it to function in our high-tech and advanced society."	Clarence Thomas</item>
+<item>"If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be."	Thomas Jefferson</item>
+<item>"We are living in a world, where what we earn is a function of what we learn."	Bill Clinton</item>
+<item>"When men are full of envy they disparage everything, whether it be good or bad."	Tacitus</item>
+<item>"Such men as he be never at heart's ease whiles they behold a greater than themselves, and therefore are they very dangerous."	William Shakespeare</item>
+<item>"I am Envy. I cannot read and therefore wish all books burned."	Christopher Marlowe</item>
+<item>"Love looks through a telescope; envy, through a microscope."	Josh Billings</item>
+<item>"Skepticism is the beginning of faith."	Oscar Wilde</item>
+<item>"Liberty cannot be established without morality, nor morality without faith."	Alexis de Tocqueville</item>
+<item>"It is always more difficult to fight against faith than against knowledge."	Adolf Hitler</item>
+<item>"Faith may be defined briefly as an illogical belief in the occurrence of the improbable."	Henry Mencken</item>
+<item>"Duty, honour, country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying point to build courage when courage seems to fail, to regain faith when there seems to be little cause for faith, to create hope when hope becomes forlorn."	Douglas MacArthur</item>
+<item>"Duty cannot exist without faith."	Benjamin Disraeli</item>
+<item>"Faith is the art of holding on to things your reason once accepted, despite your changing moods."	C.S. Lewis</item>
+<item>"He who loses money, loses much; He who loses a friend, loses much more, He who loses faith, loses all."	Eleanor Roosevelt</item>
+<item>"Faith is not only in the heart; it should be put into words."	Nachman of Bratslav</item>
+<item>"A man should believe in God through faith, not because of miracles."	Nachman of Bratslav</item>
+<item>"Faithless is he that says farewell when the road darkens."	J.R.R. Tolkien</item>
+<item>"If devotion to truth is the hallmark of morality, then there is no greater, nobler, more heroic form of devotion than the act of a man who assumes the responsibility of thinking...the alleged short-cut to knowledge, which is faith, is only a short-circuit destroying the mind."	Ayn Rand</item>
+<item>"Your faith is what you believe, not what you know."	Mark Twain</item>
+<item>"Until you do what you believe in, how do you know whether you believe in it or not?"	Leo Tolstoy</item>
+<item>"To one who has faith, no explanation is necessary. To one without faith, no explanation is possible."	Thomas Aquinas</item>
+<item>"Unless you believe, you will not understand."	Saint Augustine</item>
+<item>"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."	Dale Carnegie</item>
+<item>"I do not pray for success, I ask for faithfulness."	Mother Teresa</item>
+<item>"Reason is our soul's left hand, Faith her right."	John Donne</item>
+<item>"A faith is a necessity to a man. Woe to him who believes in nothing."	Victor Hugo</item>
+<item>"Love of fame is the last thing even learned men can bear to be parted from."	Tacitus</item>
+<item>"Fame is a fickle food upon a shifting plate."	Emily Dickinson</item>
+<item>"In the future everyone will be world-famous for 15 minutes."	Andy Warhol</item>
+<item>"Nobody has ever before asked the nuclear family to live all by itself in a box the way we do. With no relatives, no support, we've put it in an impossible situation."	Margaret Mead</item>
+<item>"No government can love a child, and no policy can substitute for a family's care."	Hillary Clinton</item>
+<item>"I wanted to do something nice so I bought my mother-in-law a chair. Now they won't let me plug it in."	Henny Youngman</item>
+<item>"A very quiet and tasteful way to be famous is to have a famous relation. Then you can not only be nothing, you can do nothing, too."	P.J. O'Rourke</item>
+<item>"If you cannot get rid of the family skeleton. You may as well make it dance."	George Bernard Shaw</item>
+<item>"Men are what their mothers made them."	Ralph Waldo Emerson</item>
+<item>"The family you come from isn't as important as the family you're going to have."	Ring Lardner</item>
+<item>"When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years."	Mark Twain</item>
+<item>"The one thing I want to leave my children is an honorable name."	Theodore Roosevelt</item>
+<item>"Parents are not interested in justice, they're interested in peace and quiet."	Bill Cosby</item>
+<item>"If the new American father feels bewildered and even defeated, let him take comfort from the fact that whatever he does in any fathering situation has a fifty percent chance of being right."	Bill Cosby</item>
+<item>"Fatherhood is pretending the present you love most is soap on-a-rope."	Bill Cosby</item>
+<item>"Courage is fear holding on a minute longer."	George Patton</item>
+<item>"All men are timid on entering any fight. Whether it is the first or the last fight, all of us are timid. Cowards are those who let their timidity get the better of their manhood."	George Patton</item>
+<item>"Fear is not in the habit of speaking truth; when perfect sincerity is expected, perfect freedom must be allowed; nor has anyone who is apt to be angry when he hears the truth any cause to wonder that he does not hear it."	Tacitus</item>
+<item>"If you're afraid to ask the question, it's probably because you already know the answer."	Miriam M. Wynn</item>
+<item>"There is no terror in the bang, only in the anticipation of it."	Alfred Hitchcock</item>
+<item>"Neither a man nor a crowd nor a nation can be trusted to act humanely or to think sanely under the influence of a great fear."	Bertrand Russell</item>
+<item>"Keep your fears to yourself, but share your inspiration with others."	Robert Louis Stevenson</item>
+<item>"There is no greater hell than to be a prisoner of fear."	Ben Jonson</item>
+<item>"The only thing we have to fear is fear itself - nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance."	Franklin D. Roosevelt</item>
+<item>"If you want to conquer fear, don't sit at home and think about it. Go out and get busy."	Andrew Carnegie</item>
+<item>"We should not let our fears hold us back from pursuing our hopes."	John F. Kennedy</item>
+<item>"I have accepted fear as a part of life - specifically the fear of change. I have gone ahead despite the pounding in the heart that says: turn back."	Erica Jong</item>
+<item>"Look not back in anger, nor forward in fear, but around you in awareness."	Ross Hersey</item>
+<item>"You gain strength, experience and confidence by every experience where you really stop to look fear in the face. You must do the thing you cannot do."	Eleanor Roosevelt</item>
+<item>"In time we hate that which we often fear."	William Shakespeare</item>
+<item>"Fear makes us feel our humanity."	Benjamin Disraeli</item>
+<item>"Those who fear life are already three parts dead."	Bertrand Russell</item>
+<item>"He has not learned the lesson of life who does not every day surmount a fear."	Ralph Waldo Emerson</item>
+<item>"There are very few monsters who warrant the fear we have of them."	André Gide</item>
+<item>"The one permanent emotion of the inferior man is fear - fear of the unknown, the complex, the inexplicable. What he wants above everything else is safety."	Henry Mencken</item>
+<item>"My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man."	John F. Kennedy</item>
+<item>"By our efforts, we have lit a fire as well--a fire in the minds of men. It warms those who feel its power, it burns those who fight its progress, and one day this untamed fire of freedom will reach the darkest corners of our world."	George W. Bush</item>
+<item>"There is only one force of history that can break the reign of hatred and resentment, and expose the pretensions of tyrants, and reward the hopes of the decent and tolerant, and that is the force of human freedom."	George W. Bush</item>
+<item>"A desire to resist oppression is implanted in the nature of man."	Tacitus</item>
+<item>"Arise and take our stand for freedom as in the olden time."	Winston Churchill</item>
+<item>"Americans are so enamored of equality, they would rather be equal in slavery than unequal in freedom."	Alexis de Tocqueville</item>
+<item>"I should have loved freedom, I believe, at all times, but in the time in which we live I am ready to worship it."	Alexis de Tocqueville</item>
+<item>"If freedom is short of weapons, we must compensate with willpower."	Adolf Hitler</item>
+<item>"If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be."	Thomas Jefferson</item>
+<item>"Freedom is not America's gift to the world, it is the Almighty God's gift to every man and woman in this world."	George W. Bush</item>
+<item>"Freedom is not a gift bestowed upon us by other men, but a right that belongs to us by the laws of God and nature."	Benjamin Franklin</item>
+<item>"The jaws of power are always open to devour, and her arm is always stretched out, if possible, to destroy the freedom of thinking, speaking, and writing."	John Adams</item>
+<item>"If ye love wealth greater than liberty, the tranquility of servitude greater than the animating contest for freedom, go home from us in peace. We seek not your counsel, nor your arms. Crouch down and lick the hand that feeds you; May your chains set lightly upon you, and may posterity forget that ye were our countrymen."	Samuel Adams</item>
+<item>"When an American says that he loves his country, he means not only that he loves the New England hills, the prairies glistening in the sun, the wide and rising plains, the great mountains, and the sea. He means that he loves an inner air, an inner light in which freedom lives and in which a man can draw the breath of self-respect."	Adlai Stevenson</item>
+<item>"Just as war is freedom's cost, disagreement is freedom's privilege."	Bill Clinton</item>
+<item>"Freedom is hammered out on the anvil of discussion, dissent, and debate."	Hubert H. Humphrey</item>
+<item>"The trouble with fighting for human freedom is that one spends most of one's time defending scoundrels. For it is against scoundrels that oppressive laws are first aimed, and oppression must be stopped at the beginning if it is to be stopped at all."	Henry Mencken</item>
+<item>"Freedom is the right to question and change the established way of doing things. It is the continuous revolution of the marketplace. It is the understanding that allows us to recognize shortcomings and seek solutions."	Ronald Reagan</item>
+<item>"Freedom is the recognition that no single person, no single authority or government has a monopoly on the truth, but that every individual life is infinitely precious, that every one of us put in this world has been put there for a reason and has something to offer."	Ronald Reagan</item>
+<item>"Our natural, inalienable rights are now considered to be a dispensation from government, and freedom has never been so fragile, so close to slipping from our grasp as it is at this moment."	Ronald Reagan</item>
+<item>"Your friend is the man who knows all about you, and still likes you."	Elbert Hubbard</item>
+<item>"Never explain--your friends do not need it and your enemies will not believe you anyway."	Elbert Hubbard</item>
+<item>"Associate yourself with men of good quality if you esteem your own reputation; for 'tis better to be alone than in bad company."	George Washington</item>
+<item>"Those will be thy best friends, not to whom thou hast done good, but who have done good to thee."	Tacitus</item>
+<item>"My friends are my estate."	Emily Dickinson</item>
+<item>"You show people what you're willing to fight for when you fight your friends."	Hillary Clinton</item>
+<item>"Friendship, like the immortality of the soul, is too good to be believed. When friendships are real, they are not glass threads or frost work, but the solidest things we know."	Ralph Waldo Emerson</item>
+<item>"Ultimately the bond of all companionship, wheather in marriage or in friendship, is conversation."	Oscar Wilde</item>
+<item>"No human relation gives one possession in another...every two souls are absolutely different. In friendship and in love, the two side by side raise hands together to find what one cannot reach alone."	Kahlil Gibran</item>
+<item>"A friend is the hope of the heart."	Ralph Waldo Emerson</item>
+<item>"It is easier to forgive an enemy than to forgive a friend."	William Blake</item>
+<item>"I do not want a friend who smiles when I smile, who weeps when I weep, for my shadow in the pool can do better than that."	Confucius</item>
+<item>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."	Robert Southey</item>
+<item>"Let me tell you I am better acquainted with you for a long absence, as men are with themselves for a long affliction: absence does but hold off a friend, to make one see him the truer."	Alexander Pope</item>
+<item>"We call that person who has lost his father, an orphan; and a widower that man who has lost his wife. But that man who has known the immense unhappiness of losing a friend, by what name do we call him? Here every language is silent and holds its peace in impotence."	Joseph Roux</item>
+<item>"Friends have all things in common."	Plato</item>
+<item>"A friend is someone, who upon seeing another friend in immense pain, would rather be the one experiencing the pain than to have to watch their friend suffer."	Amanda Grier</item>
+<item>"We live, in fact, in a world starved for solitude, silence, and private: and therefore starved for meditation and true friendship."	C.S. Lewis</item>
+<item>"I was angry with my friend I told my wrath, my wrath did end. I was angry with my foe: I told it not, my wrath did grow."	William Blake</item>
+<item>"Friendship with oneself is all-important because without it one cannot be friends with anyone else in the world."	Eleanor Roosevelt</item>
+<item>"God is a verb."	Buckminster Fuller</item>
+<item>"A subject for a great poet would be God's boredom after the seventh day of Creation."	Friedrich Nietzsche</item>
+<item>"I sometimes think that God in creating man somewhat overestimated his ability."	Oscar Wilde</item>
+<item>"I could not say I believe — I know! I have had the experience of being gripped by something that is stronger than myself, something that people call God."	Carl Jung</item>
+<item>"You may think the President is all-powerful, but he is not. He needs a lot of guidance from the Lord."	Barbara Bush</item>
+<item>"It is when people forget God that tyrants forge their chains."	Patrick Henry</item>
+<item>"Man will ultimately be governed by God or by tyrants."	Benjamin Franklin</item>
+<item>"Freedom and fear, justice and cruelty, have always been at war, and we know that God is not neutral between them."	George W. Bush</item>
+<item>"I have lived, Sir, a long time, and the longer I live, the more convincing proofs I see of this truth -- that God Governs the affairs of men. And if a sparrow cannot fall to the ground without His notice, is it probable that an empire can rise without His aid?"	Benjamin Franklin</item>
+<item>"This most beautiful system [The Universe] could only proceed from the dominion of an intelligent and powerful Being."	Isaac Newton</item>
+<item>"They say that God is everywhere, and yet we always think of Him as somewhat of a recluse."	Emily Dickinson</item>
+<item>"God is really only another artist. He invented the giraffe, the elephant and the cat. He has no real style, He just goes on trying other things."	Pablo Picasso</item>
+<item>"Cast your cares on God; that anchor holds."	Frank Moore Colby</item>
+<item>"To forbid the making of pictures about God would be to forbid thinking about God at all, for man is so made that he has no way to think except in pictures."	Dorothy Sayers</item>
+<item>"We do not need more intellectual power, we need more spiritual power. We do not need more of the things that are seen, we need more of the things that are unseen."	Calvin Coolidge</item>
+<item>"We are commanded to love God with all our minds, as well as with all our hearts, and we commit a great sin if we forbid or prevent that cultivation of the mind in others which would enable them to perform this duty."	Angelina Grimke</item>
+<item>"Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear."	Thomas Jefferson</item>
+<item>"God is a comedian playing to an audience too afraid to laugh."	Francois Marie Arouet (Voltaire)</item>
+<item>"I tremble for my country when I reflect that God is just, that His justice cannot sleep forever."	Thomas Jefferson</item>
+<item>"Mathematics is the language with which God has written the universe."	Galileo Galilei</item>
+<item>"So long as governments set the example of killing their enemies, private individuals will occasionally kill theirs."	Elbert Hubbard</item>
+<item>"A little patience, and we shall see the reign of witches pass over, their spells dissolve, and the people, recovering their true sight, restore their government to its true principles. It is true that in the meantime we are suffering deeply in spirit, and incurring the horrors of a war and long oppressions of enormous public debt...If the game runs sometime against us at home, we must have patience till luck turns, and then we shall have an opportunity of winning back the principles we have lost, for this is a game where principles are at stake."	Thomas Jefferson</item>
+<item>"To those new States whom we welcome to the ranks of the free, we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny."	John F. Kennedy</item>
+<item>"The most dangerous moment for a bad government is when it begins to reform."	Alexis de Tocqueville</item>
+<item>"No nation keeps its word. A nation is a big, blind worm, following what? Fate perhaps. A nation has no honor, it has no word to keep."	Carl Jung</item>
+<item>"I don't make jokes. I just watch the government and report the facts."	Will Rogers</item>
+<item>"Be thankful we're not getting all the government we're paying for."	Will Rogers</item>
+<item>"A man may be loyal to his government and yet oppose the particular principles and methods of administration."	Abraham Lincoln</item>
+<item>"History, in general, only informs us what bad government is."	Thomas Jefferson</item>
+<item>"The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government -- lest it come to dominate our lives and interests."	Patrick Henry</item>
+<item>"The liberties of a people never were, nor ever will be, secure, when the transactions of their rulers may be concealed from them."	Patrick Henry</item>
+<item>"Now more than ever before, the people are responsible for the character of their Congress. If that body be ignorant, reckless and corrupt, it is because the people tolerate ignorance, recklessness and corruption."	James Garfield</item>
+<item>"Every step we take towards making the State our Caretaker of our lives, by that much we move toward making the State our Master."	Dwight Eisenhower</item>
+<item>"If ever time should come, when vain and aspiring men shall possess the highest seats in Government, our country will stand in need of its experienced patriots to prevent its ruin."	Samuel Adams</item>
+<item>"In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex."	Dwight Eisenhower</item>
+<item>"The function of government ought to be: make sure you have good water to drink, somebody picking up the garbage, good roads to drive on, enough electricity to turn your light bulbs and your record player on, and whatever smaller amounts of regulatory assistance is necessary to make this society work."	Frank Zappa</item>
+<item>"No government can love a child, and no policy can substitute for a family's care."	Hillary Clinton</item>
+<item>"Today we can declare: Government is not the problem, and government is not the solution. We, the American people, we are the solution."	Bill Clinton</item>
+<item>"The new rage is to say that the government is the cause of all our problems, and if only we had no government, we'd have no problems. I can tell you, that contradicts evidence, history, and common sense."	Bill Clinton</item>
+<item>"Every government is a scoundrel."	Henry Mencken</item>
+<item>"Get happiness out of your work or you may never know what happiness is."	Elbert Hubbard</item>
+<item>"Happiness serves hardly any other purpose than to make unhappiness possible."	Marcel Proust</item>
+<item>"As soon as one is unhappy one becomes moral."	Marcel Proust</item>
+<item>"Happiness is beneficial for the body, but it is grief that develops the powers of the mind."	Marcel Proust</item>
+<item>"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom."	Marcel Proust</item>
+<item>"Many who seem to be struggling with adversity are happy; many, amid great affluence, are utterly miserable."	Tacitus</item>
+<item>"Whoever is happy will make others happy, too."	Mark Twain</item>
+<item>"A sound mind in a sound body is a short but full description of a happy state in this world."	John Locke</item>
+<item>"Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness."	Carl Jung</item>
+<item>"America is a vast conspiracy to make you happy."	John Updike</item>
+<item>"Three grand essentials to happiness in this life are something to do, something to love, and something to hope for."	Joseph Addison</item>
+<item>"Happiness is a Swedish sunset; it is there for all, but most of us look the other way and lose it."	Mark Twain</item>
+<item>"Grief can take care of itself, but to get the full value of joy you must have somebody to divide it with."	Mark Twain</item>
+<item>"Hope is itself a species of happiness, and, perhaps, the chief happiness which this world affords: but, like all other pleasures immoderately enjoyed, the excesses of hope must be expiated by pain; and expectations improperly indulged must end in disappointment."	Samuel Johnson</item>
+<item>"Happiness is so hard to define and foolish to define. Am I acting? That's the worst thing you can ask yourself. You can be happy suddenly. It can spring on you, not when you reach a plateau. You can be happy going backward or going down. You can be happy at the loss of something."	Steve Martin</item>
+<item>"My life has no purpose, no direction, no aim, no meaning, and yet I'm happy. I can't figure it out. What am I doing right?"	Charles Schulz</item>
+<item>"A joyful heart is like the sunshine of God's love, the hope of eternal happiness."	Mother Teresa</item>
+<item>"The art of being happy lies in the power of extracting happiness from common things."	Henry Ward Beecher</item>
+<item>"Man needs, for his happiness, not only the enjoyment of this or that, but hope and enterprise and change."	Bertrand Russell</item>
+<item>"What is happiness? The feeling that power is growing, that resistance is overcome."	Friedrich Nietzsche</item>
+<item>"History is more or less bunk."	Henry Ford</item>
+<item>"History is a gallery of pictures in which there are few originals and many copies."	Alexis de Tocqueville</item>
+<item>"The man who has no sense of history, is like a man who has no ears or eyes."	Adolf Hitler</item>
+<item>"There is nothing new in the world except the history you do not know."	Harry Truman</item>
+<item>"History doesn't repeat itself, but it does rhyme."	Mark Twain</item>
+<item>"Well, the telling of jokes is an art of its own, and it always rises from some emotional threat. The best jokes are dangerous, and dangerous because they are in some way truthful."	Kurt Vonnegut</item>
+<item>"Kids like my act because I'm wearing nose glasses. Adults like my act because there's a guy who thinks putting on nose glasses is funny."	Steve Martin</item>
+<item>"In the end, everything is a gag."	Charlie Chaplin</item>
+<item>"Anyone without a sense of humor is at the mercy of everyone else."	William Rotsler</item>
+<item>"Humor is the only test of gravity, and gravity of humor; for a subject which will not bear raillery is suspicious, and a jest which will not bear serious examination is false wit."	Aristotle</item>
+<item>"Life does not cease to be funny when people die any more than it ceases to be serious when people laugh."	George Bernard Shaw</item>
+<item>"Comedy is the art of making people laugh without making them puke."	Steve Martin</item>
+<item>"Chaos in the midst of chaos isn't funny, but chaos in the midst of order is."	Steve Martin</item>
+<item>"I think it's the duty of the comedian to find out where the line is drawn and cross it deliberately."	George Carlin</item>
+<item>"You can turn painful situations around through laughter. If you can find humor in anything, even poverty, you can survive it."	Bill Cosby</item>
+<item>"Humor is the great thing, the saving thing. The minute it crops up, all our irritation and resentments slip away, and a sunny spirit takes their place."	Mark Twain</item>
+<item>"Humor is mankind's greatest blessing."	Mark Twain</item>
+<item>"The secret to humor is surprise."	Aristotle</item>
+<item>"Humor is the most engaging cowardice."	Robert Frost</item>
+<item>"Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it."	E.B. White</item>
+<item>"Humor is perhaps a sense of intellectual perspective: an awareness that some things are really important, others not; and that the two kinds are most oddly jumbled in everyday affairs."	Christopher Morley</item>
+<item>"To be what we are, and to become what we are capable of becoming, is the only end of life."	Robert Louis Stevenson</item>
+<item>"Life is just one damned thing after another."	Elbert Hubbard</item>
+<item>"Alas, I am dying beyond my means."	Oscar Wilde</item>
+<item>"Life consists not in holding good cards but in playing those you hold well."	Josh Billings</item>
+<item>"Absence and death are the same - only that in death there is no suffering."	Theodore Roosevelt</item>
+<item>"Life is to entered upon with courage."	Alexis de Tocqueville</item>
+<item>"Death is psychologically as important as birth. Shrinking away from it is something unhealthy and abnormal which robs the second half of life of its purpose."	Carl Jung</item>
+<item>"A shoe that fits one person pinches another; there is no recipe for living that suits all cases."	Carl Jung</item>
+<item>"As far as we can discern, the sole purpose of human existence is to kindle a light of meaning in the darkness of mere being."	Carl Jung</item>
+<item>"It is not death that a man should fear, but he should fear never beginning to live."	Marcus Aurelius</item>
+<item>"For three days after death, hair and fingernails continue to grow but phone calls taper off."	Johnny Carson</item>
+<item>"To live is so startling it leaves little time for anything else."	Emily Dickinson</item>
+<item>"Dying is the most embarrassing thing that can ever happen to you, because someone's got to take care of all your details."	Andy Warhol</item>
+<item>"Life is ours to be spent, not to be saved."	D.H. Lawrence</item>
+<item>"In the life of a man, his time is but a moment...his sense, a dim rushlight. All that is body is as coursing waters...all that is of the soul, as dreams, and vapors."	Marcus Aurelius</item>
+<item>"A single death is a tragedy; a million deaths is a statistic."	Joseph Stalin</item>
+<item>"Dying is a very dull, dreary affair. And my advice to you is to have nothing whatever to do with it."	W. Somerset Maugham</item>
+<item>"He not busy being born is busy dying."	Bob Dylan</item>
+<item>"As a well-spent day brings happy sleep, so life well used brings happy death."	Leonardo da Vinci</item>
+<item>"Life is pleasant. Death is peaceful. It's the transition that's troublesome."	Isaac Asimov</item>
+<item>"The essence of romantic love is not the company of a lover but the pursuit."	Andrew Sullivan</item>
+<item>"The love we give away is the only love we keep."	Elbert Hubbard</item>
+<item>"Life in abundance comes only through great love."	Elbert Hubbard</item>
+<item>"Those who are faithful know only the trivial side of love: it is the faithless who know love's tragedies."	Oscar Wilde</item>
+<item>"In a separation it is the one who is not really in love who says the more tender things."	Marcel Proust</item>
+<item>"What a profound significance small things assume when the woman we love conceals them from us."	Marcel Proust</item>
+<item>"In his younger days a man dreams of possessing the heart of the woman whom he loves; later, the feeling that he possesses the heart of a woman may be enough to make him fall in love with her."	Marcel Proust</item>
+<item>"People who are not in love fail to understand how an intelligent man can suffer because of a very ordinary woman. This is like being surprised that anyone should be stricken with cholera because of a creature so insignificant as the comma bacillus."	Marcel Proust</item>
+<item>"Where love rules, there is no will to power; and where power predominates, there love is lacking. The one is the shadow of the other."	Carl Jung</item>
+<item>"Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world."	Lucille Ball</item>
+<item>"If thou rememb'rest not the slightest folly into which love hast made thee run, though hast not loved."	William Shakespeare</item>
+<item>"Where there is no exaggeration there is no love, and where there is no love there is no understanding."	Oscar Wilde</item>
+<item>"Love is repaid by love alone!"	Mother Teresa</item>
+<item>"Love is like war: easy to begin but very hard to stop."	Henry Mencken</item>
+<item>"My wife is as handsome as when she was a girl, and I...fell in love with her; and what is more, I have never fallen out."	Abraham Lincoln</item>
+<item>"Love sought is good, but given unsought is better."	William Shakespeare</item>
+<item>"And what’s romance? Usually, a nice little tale where you have everything As You Like It, where rain never wets your jacket and gnats never bite your nose and it’s always daisy-time."	D.H. Lawrence</item>
+<item>"Mortal lovers must not try to remain at the first step; for lasting passion is the dream of a harlot and from it we wake in despair."	C.S. Lewis</item>
+<item>"Pure love and suspicion cannot dwell together: at the door where the latter enters, the former makes its exit."	Alexandre Dumas</item>
+<item>"The fickleness of the women I love is only equaled by the infernal constancy of the women who love me."	George Bernard Shaw</item>
+<item>"What is the most important for democracy is not that great fortunes should not exist, but that great fortunes should not remain in the same hands. In that way there are rich men, but they do not form a class."	Alexis de Tocqueville</item>
+<item>"Nothing is quite so wretchedly corrupt as an aristocracy which has lost its power but kept its wealth and which still has endless leisure to devote to nothing but banal enjoyments. All its great thoughts and passionate energy are things of the past, and nothing but a host of petty, gnawing vices now cling to it like worms to a corpse."	Alexis de Tocqueville</item>
+<item>"The only thing money gives you is the freedom of not worrying about money."	Johnny Carson</item>
+<item>"The greatest wealth is to live content with little."	Plato</item>
+<item>"I paid too much for it, but it's worth it."	Samuel Goldwyn</item>
+<item>"The chief value of money lies in the fact that one lives in a world in which it is overestimated."	Henry Mencken</item>
+<item>"Never confuse the size of your paycheck with the size of your talent."	Marlon Brando</item>
+<item>"Many wealthy people are little more than janitors of their possessions."	Frank Lloyd Wright</item>
+<item>"It is preoccupation with possessions, more than anything else, that prevents us from living freely and nobly."	Bertrand Russell</item>
+<item>"Money is better than poverty, if only for financial reasons."	Woody Allen</item>
+<item>"A man has one hundred dollars and you leave him with two dollars, that's subtraction."	Mae West</item>
+<item>"Enjoy your job, make lots of money, work within the law. Choose any two."	Author Unknown</item>
+<item>"So you think that money is the root of all evil. Have you ever asked what is the root of all money?"	Ayn Rand</item>
+<item>"It made me sick to watch those businessmen applaud Welles during the 1975 AFI tribute, when you know that the next day if he asked any one of them for money, they'd say, 'We'll let you know.'""	John Cassavettes</item>
+<item>"I think that much of the advice given to young men about saving money is wrong. I never saved a cent until I was forty years old. I invested in myself - in study, in mastering my tools, in preparation. Many a man who is putting a few dollars a week into the bank would do much better to put it into himself."	Henry Ford</item>
+<item>"Wealth is the parent of luxury and indolence, and poverty of meanness and viciousness, and both of discontent."	Plato</item>
+<item>"The two most beautiful words in the English language are 'check enclosed.'"	Dorothy Parker</item>
+<item>"I am indeed rich, since my income is superior to my expense, and my expense is equal to my wishes."	Kahlil Gibran</item>
+<item>"Money is like a sixth sense without which you cannot make a complete use of the other five."	W. Somerset Maugham</item>
+<item>"I never hated a man enough to give him diamonds back."	Zsa Zsa Gabor</item>
+<item>"The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them."	George Orwell</item>
+<item>"Patriotism is the last refuge of a scoundrel."	Samuel Johnson</item>
+<item>"Patriotism is easy to understand in America. It means looking out for yourself by looking out for your country."	Calvin Coolidge</item>
+<item>"Some of your countrymen were unable to distinguish between their native dislike for war and the stainless patriotism of those who suffered its scars. But there has been a rethinking and now we can say to you, and say as a nation, thank you for your courage."	Ronald Reagan</item>
+<item>"One of the great attractions of patriotism -- it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous."	Aldous Huxley</item>
+<item>"Heroism at command, senseless brutality, and all the loathsome nonsense that goes by the name of patriotism, how violently I hate all this, how despicable and ignoble war is; I would rather be torn to shreds than be part of so base an action!"	Albert Einstein</item>
+<item>"True patriotism hates injustice in its own land more than anywhere else."	Clarence Darrow</item>
+<item>"Patriotism is the virtue of the vicious."	Oscar Wilde</item>
+<item>"But could not our situation be compared to one of a menacing epidemic? People are unable to view this situation in its true light, for their eyes are blinded by passion. General fear and anxiety create hatred and aggressiveness. The adaptation to warlike aims and activities has corrupted the mentality of man; as a result, intelligent, objective and humane thinking has hardly any effect and is even suspected and persecuted as unpatriotic."	Albert Einstein</item>
+<item>"When a whole nation is roaring patriotism at the top of its voice, I am fain to explore the cleanness of its hands and purity of its heart."	Ralph Waldo Emerson</item>
+<item>"My country, right or wrong' is a thing no patriot would ever think of saying except in a desperate case. It is like saying 'My mother, drunk or sober.'"	GK Chesterton</item>
+<item>"Our true nationality is mankind."	H.G. Wells</item>
+<item>"Ask not what your country can do for you - ask what you can do for your country."	John F. Kennedy</item>
+<item>"Patriotism is your conviction that this country is superior to all other countries because you were born in it."	George Bernard Shaw</item>
+<item>"Patriotism is not short, frenzied outbursts of emotion, but the tranquil and steady dedication of a lifetime."	Adlai Stevenson</item>
+<item>"I have nothing to offer but blood, toil, tears and sweat."	Winston Churchill</item>
+<item>"Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution; one makes the revolution in order to establish the dictatorship."	George Orwell</item>
+<item>"Where love rules, there is no will to power; and where power predominates, there love is lacking. The one is the shadow of the other."	Carl Jung</item>
+<item>"What is happiness? The feeling that power is growing, that resistance is overcome."	Friedrich Nietzsche</item>
+<item>"What is good? Everything that heightens the feeling of power in man, the will to power, power itself."	Friedrich Nietzsche</item>
+<item>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune."	Carl Jung</item>
+<item>"He that falls in love with himself will have no rivals."	Benjamin Franklin</item>
+<item>"A proud man is always looking down on things and people; and, of course, as long as you're looking down, you can't see something that's above you."	C.S. Lewis</item>
+<item>"The man who acts humble in order to win praise is guilty of the lowest form of pride."	Nachman of Bratslav</item>
+<item>"But we have forgotten God. We have forgotten the gracious Hand which preserved us in peace, and multiplied and enriched and strengthened us; and we have vainly imagined, in the deceitfulness of our hearts, that all these blessings were produced by some superior wisdom and virtue of our own."	Abraham Lincoln</item>
+<item>"The essence of a self-reliant and autonomous culture is an unshakeable egoism."	Henry Mencken</item>
+<item>"There is a paradox in pride: it makes some men ridiculous, but prevents others from becoming so."	Charles Caleb Colton</item>
+<item>"Pride gets no pleasure out of having something, only out of having more of it than the next man."	C.S. Lewis</item>
+<item>"Swallow your pride occasionally, it's not fattening."	Frank Tyger</item>
+<item>"Pride is an admission of weakness; it secretly fears all competition and dreads all rivals."	Fulton J. Sheen</item>
+<item>"It would be fatal for the nation to overlook the urgency of the moment. This sweltering summer of the Negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality."	Martin Luther King Jr.</item>
+<item>"I don't believe in quotas. America was founded on a philosophy of individual rights, not group rights."	Clarence Thomas</item>
+<item>"There can be no doubt that racial paternalism and its unintended consequences can be as poisonous and pernicious as any other form of discrimination."	Clarence Thomas</item>
+<item>"People sometimes ask if I have tried to convince black 'leaders' to take a different view on racial issues. Of course not. I wouldn't spend my time trying to persuade the mafia to give up crime. Why should I spend time trying to convince race hustlers to give up victimhood? It's their bread and butter."	Thomas Sowell</item>
+<item>"I detest racialism, because I regard it as a barbaric thing, whether it comes from a black man or a white man."	Nelson Mandela</item>
+<item>"I think it's insulting to people who have a heritage of slavery to compare the homosexual experience in America to that. It's an unfortunate, cheap attempt to piggyback on something and to co-opt life experiences of others, claim that you've experienced them yourselves so that you can advance a cause."	Rush Limbaugh</item>
+<item>"It is incontestable and deplorable that Negroes have committed crimes; but they are derivative crimes. They are born of the greater crimes of the white society."	Martin Luther King Jr.</item>
+<item>"Many interviewers when they come to talk to me, think they're being progressive by not mentioning in their stories any longer that I'm black. I tell them, 'Don't stop now. If I shot somebody you'd mention it.'"	Colin Powell</item>
+<item>"When we're unemployed, we're called lazy; when the whites are unemployed it's called a depression."	Jesse Jackson</item>
+<item>"I want to be the white man's brother, not his brother-in-law."	Martin Luther King Jr.</item>
+<item>"Before the Pilgrims landed at Plymouth, we were here. Before the pen of Jefferson etched across the pages of history the majestic words of the Declaration of Independence, we were here. If the inexpressible cruelties of slavery could not stop us, the opposition we now face will surely fail."	Martin Luther King Jr.</item>
+<item>"The Negro needs the white man to free him from his fears. The white man needs the Negro to free him from his guilt."	Martin Luther King Jr.</item>
+<item>"Our nettlesome task is to discover how to organize our strength into compelling power."	Martin Luther King Jr.</item>
+<item>"I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by the content of their character."	Martin Luther King Jr.</item>
+<item>"Violence as a way of achieving racial justice is both impractical and immoral. It is impractical because it is a descending spiral ending in destruction for all. It is immoral because it seeks to humiliate the opponent rather than win his understanding; it seeks to annihilate rather than to convert. Violence is immoral because it thrives on hatred rather than love."	Martin Luther King Jr.</item>
+<item>"Some succeed by what they know; some by what they do; and a few by what they are."	Elbert Hubbard</item>
+<item>"The line between failure and success is so fine that we scarcely know when we pass it; so fine that we are often on the line and do not know it."	Elbert Hubbard</item>
+<item>"It is only by doing things others have not that one can advance."	George Patton</item>
+<item>"The harder the conflict, the more glorious the triumph. What we obtain too cheap, we esteem too lightly. 'Tis dearness only that gives everything its value."	Thomas Paine</item>
+<item>"We must never be afraid to go too far, for success lies just beyond."	Marcel Proust</item>
+<item>"We succeed in enterprises which demand the positive qualities we possess, but we excel in those which can also make use of our defects."	Alexis de Tocqueville</item>
+<item>"Success is a lousy teacher. It seduces smart people into thinking they can't lose."	Bill Gates</item>
+<item>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."	John Wooden</item>
+<item>"Talent alone won't make you a success. Neither will being in the right place at the right time, unless you are ready. The most important question is: 'Are you ready?'"	Johnny Carson</item>
+<item>"My success just evolved from working hard at the business at hand each day."	Johnny Carson</item>
+<item>"Success is counted sweetest by those who ne'er succeed."	Emily Dickinson</item>
+<item>"No man, who continues to add something to the material, intellectual and moral well-being of the place in which he lives, is left long without proper reward."	Booker T. Washington</item>
+<item>"Pick battles big enough to matter, small enough to win."	Jonathan Kozol</item>
+<item>"Life's battles don't always go to the stronger or faster man. But sooner or later the man who wins, is the man who thinks he can."	Vince Lombardi</item>
+<item>"Don't confuse having a career with having a life."	Hillary Clinton</item>
+<item>"Men are born to succeed, not fail."	Henry Thoreau</item>
+<item>"Be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon 'em."	William Shakespeare</item>
+<item>"I have found some of the best reasons I ever had for remaining at the bottom simply by looking at the men at the top."	Frank Moore Colby</item>
+<item>"Let us be thankful for the fools. But for them the rest of us could not succeed."	Mark Twain</item>
+<item>"No enterprise can exist for itself alone. It ministers to some great need, it performs some great service, not for itself, but for others; or failing therein, it ceases to be profitable and ceases to exist."	Calvin Coolidge</item>
+<item>"Strength of mind is exercise, not rest."	Alexander Pope</item>
+<item>"If you are going to win any battle, you have to do one thing. You have to make the mind run the body. Never let the body tell the mind what to do... the body is never tired if the mind is not tired."	George Patton</item>
+<item>"If everyone is thinking alike, someone isn't thinking."	George Patton</item>
+<item>"Any mental activity is easy if it need not take reality into account."	Marcel Proust</item>
+<item>"Happiness is beneficial for the body, but it is grief that develops the powers of the mind."	Marcel Proust</item>
+<item>"In the United States the majority undertakes to supply a multitude of ready-made opinions for the use of individuals, who are thus relieved from the necessity of forming opinions of their own."	Alexis de Tocqueville</item>
+<item>"I have always thought the actions of men the best interpreters of their thoughts."	John Locke</item>
+<item>"I think; therefore I am."	Rene Descartes</item>
+<item>"This is slavery, not to speak one's thought."	Euripides</item>
+<item>"That is the consolation of a little mind; you have the fun of changing it without impeding the progress of mankind."	Frank Moore Colby</item>
+<item>"Few people think more than two or three times a year. I have made an international reputation for myself by thinking once or twice a week."	George Bernard Shaw</item>
+<item>"It is your mind that creates this world."	Siddhartha Buddha</item>
+<item>"Great spirits have always encountered violent oppostion from mediocre minds."	Albert Einstein</item>
+<item>"Learning without thought is labor lost."	Confucius</item>
+<item>"Nothing pains some people more than having to think."	Martin Luther King Jr.</item>
+<item>"Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions."	Martin Luther King Jr.</item>
+<item>"To think is to differ."	Clarence Darrow</item>
+<item>"In the small matters trust the mind, in the large ones the heart."	Sigmund Freud</item>
+<item>"Reason is experimental intelligence, conceived after the pattern of science, and used in the creation of social arts; it has something to do. It liberates man from the bondage of the past, due to ignorance and accident hardened into custom. It projects a better future and assists man in its realization."	John Dewey</item>
+<item>"I'll be more enthusiastic about encouraging thinking outside the box when there's evidence of any thinking going on inside it."	Terry Pratchett</item>
+<item>"Everything comes too late for those who only wait."	Elbert Hubbard</item>
+<item>"It is only the modern that ever becomes old-fashioned."	Oscar Wilde</item>
+<item>"We have it in our power to begin the world over again."	Thomas Paine</item>
+<item>"The moments of the past do not remain still; they retain in our memory the motion which drew them towards the future, towards a future which has itself become the past, and draw us on in their train."	Marcel Proust</item>
+<item>"Time passes, and little by little everything that we have spoken in falsehood becomes true."	Marcel Proust</item>
+<item>"The time which we have at our disposal every day is elastic; the passions we feel expand it, those that we inspire contract it, and habit fills up what remains."	Marcel Proust</item>
+<item>"Time, which changes people, does not alter the image we have retained of them."	Marcel Proust</item>
+<item>"He who controls the present, controls the past. He who controls the past, controls the future."	George Orwell</item>
+<item>"When the past no longer illuminates the future, the spirit walks in darkness."	Alexis de Tocqueville</item>
+<item>"Like as the waves make towards the pebbl'd shore, so do our minutes hasten to their end."	William Shakespeare</item>
+<item>"We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten."	Bill Gates</item>
+<item>"I confess, I do not believe in time."	Vladimir Nabokov</item>
+<item>"But what minutes! Count them by sensation, and not by calendars, and each moment is a day."	Benjamin Disraeli</item>
+<item>"Time has been transformed, and we have changed; it has advanced and set us in motion; it has unveiled its face, inspiring us with bewilderment and exhilaration."	Kahlil Gibran</item>
+<item>"Forever is composed of nows."	Emily Dickinson</item>
+<item>"They always say time changes things, but you actually have to change them yourself."	Andy Warhol</item>
+<item>"Eternity's a terrible thought. I mean, where's it all going to end?"	Tom Stoppard</item>
+<item>"I've seen the future, and it's much like the present -- only longer."	Dan Quisenberry</item>
+<item>"The best thing about the future is that it comes only one day at a time."	Abraham Lincoln</item>
+<item>"As if you could kill time without injuring eternity."	Henry Thoreau</item>
+<item>"Either war is obsolete or men are."	Buckminster Fuller</item>
+<item>"It is the unconquerable nature of man and not the nature of the weapon he uses that ensures victory."	George Patton</item>
+<item>"I am a soldier, I fight where I am told, and I win where I fight."	George Patton</item>
+<item>"May God have mercy upon my enemies, because I won't."	George Patton</item>
+<item>"All men are timid on entering any fight. Whether it is the first or the last fight, all of us are timid. Cowards are those who let their timidity get the better of their manhood."	George Patton</item>
+<item>"War is an art and as such is not susceptible of explanation by fixed formula."	George Patton</item>
+<item>"There is nothing easier than lopping off heads and nothing harder than developing ideas."	Fyodor Dostoevsky</item>
+<item>"The battle is now joined on many fronts. We will not waver; we will not tire; we will not falter; and we will not fail."	George W. Bush</item>
+<item>"It is only necessary to make war with five things: with the maladies of the body, with the ignorances of the mind, with the passions of the body, with the seditions of the city, with the discords of families."	Tacitus</item>
+<item>"He that fights and runs away, may turn and fight another day; but he that is in battle slain, will never rise to fight again."	Tacitus</item>
+<item>"A bad peace is even worse than war."	Tacitus</item>
+<item>"People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf."	George Orwell</item>
+<item>"There are two things which a democratic people will always find very difficult - to begin a war and to end it."	Alexis de Tocqueville</item>
+<item>"Short-circuiting the long-established principles of patient negotiation leads to war, not peace."	Jimmy Carter</item>
+<item>"Wars may be fought with weapons, but they are won by men."	George Patton</item>
+<item>"I would rather have peace in the world than be President."	Harry Truman</item>
+<item>"Demoralize the enemy from within by surprise, terror, sabotage, assassination. This is the war of the future."	Adolf Hitler</item>
+<item>"Strength lies not in defense but in attack."	Adolf Hitler</item>
+<item>"Those who want to live, let them fight, and those who do not want to fight in this world of eternal struggle do not deserve to live."	Adolf Hitler</item>
+<item>"The battle, Sir, is not to the strong alone; it is to the vigilant, the active, the brave."	Patrick Henry</item>
+<item>"No man is so foolish but he may sometimes give another good counsel, and no man so wise that he may not easily err if he takes no other counsel than his own. He that is taught only by himself has a fool for a master."	Hunter S. Thompson</item>
+<item>"A word to the wise is infuriating."	Hunter S. Thompson</item>
+<item>"The well-bred contradict other people. The wise contradict themselves."	Oscar Wilde</item>
+<item>"The wise man learns more from the fool than the fool learns from the wise man."	Marcus Aurelius</item>
+<item>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."	Marcel Proust</item>
+<item>"The older I grow the more I distrust the familiar doctrine that age brings wisdom."	Henry Mencken</item>
+<item>"Knowledge comes, but wisdom lingers."	Calvin Coolidge</item>
+<item>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."	Walter Lippman</item>
+<item>"The highest form of wisdom is to get drunk and go to pieces."	Rudyard Kipling</item>
+<item>"What wisdom can you find that is greater than kindness?"	Jean-Jacques Rousseau</item>
+<item>"Knowledge is not wisdom, unless used wisely."	J.D. Anderson</item>
+<item>"How I wish that somewhere there existed an island for those who are wise and of goodwill! In such a place even I would be an ardent patriot."	Albert Einstein</item>
+<item>"The fool doth think he is wise, but the wise man knows himself to be a fool."	William Shakespeare</item>
+<item>"The wise speak only of what they know."	J.R.R. Tolkien</item>
+<item>"In doubt a man of worth will trust to his own wisdom."	J.R.R. Tolkien</item>
+<item>"Wisdom begins at the end."	Daniel Webster</item>
+<item>"Age does not always bring wisdom. Sometimes age comes alone."	Garrison Keillor</item>
+<item>"Without courage, wisdom bears no fruit."	Baltasar Gracian</item>
+<item>"A wise man gets more use from his enemies than a fool from his friends."	Baltasar Gracian</item>
+<item>"The wise man does at once what the fool does finally."	Baltasar Gracian</item>
+<item>"I have a theory that the truth is never told during the nine-to-five hours."	Hunter S. Thompson</item>
+<item>"Get happiness out of your work or you may never know what happiness is."	Elbert Hubbard</item>
+<item>"Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined."	Johnny Carson</item>
+<item>"The more man puts into God, the less he retains in himself. The worker puts his life into the object; but now his life no longer belongs to him, but to the object."	Karl Marx</item>
+<item>"The mode by which the inevitable comes to pass is effort."	Oliver Wendell Holmes</item>
+<item>"If I am anything, which I highly doubt, I have made myself so by hard work."	Isaac Newton</item>
+<item>"Inspiration exists, but it has to find you working."	Pablo Picasso</item>
+<item>"All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work."	Calvin Coolidge</item>
+<item>"Enjoy your job, make lots of money, work within the law. Choose any two."	Author Unknown</item>
+<item>"I do not like work even when someone else does it."	Mark Twain</item>
+<item>"If you don't know what to do with many of the papers piled on your desk, stick a dozen colleagues' initials on 'em, and pass them along. When in doubt, route."	Malcolm Forbes</item>
+<item>"The beginning is the most important part of the work."	Plato</item>
+<item>"If women are expected to do the same work as men, we must teach them the same things."	Plato</item>
+<item>"When you work seven days a week, fourteen hours a day, you get lucky."	Armand Hammer</item>
+<item>"The days you work are the best days."	Georgia O'Keefe</item>
+<item>"When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before."	Jacob August Riis</item>
+<item>"Thinking is the hardest work there is, which is the probable reason why so few engage in it."	Henry Ford</item>
+<item>"The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it."	Elbert Hubbard</item>
+<item>"If God is satisfied with the work, the work may be satisfied with itself."	C.S. Lewis</item>
+<item>"I am a strong believer in luck and I find the harder I work the more I have of it."	Benjamin Franklin</item>
+<item>"I have a theory that the truth is never told during the nine-to-five hours."	Hunter S. Thompson</item>
+<item>"Get happiness out of your work or you may never know what happiness is."	Elbert Hubbard</item>
+<item>"Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined."	Johnny Carson</item>
+<item>"The more man puts into God, the less he retains in himself. The worker puts his life into the object; but now his life no longer belongs to him, but to the object."	Karl Marx</item>
+<item>"The mode by which the inevitable comes to pass is effort."	Oliver Wendell Holmes</item>
+<item>"If I am anything, which I highly doubt, I have made myself so by hard work."	Isaac Newton</item>
+<item>"Inspiration exists, but it has to find you working."	Pablo Picasso</item>
+<item>"All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work."	Calvin Coolidge</item>
+<item>"Enjoy your job, make lots of money, work within the law. Choose any two."	Author Unknown</item>
+<item>"I do not like work even when someone else does it."	Mark Twain</item>
+<item>"If you don't know what to do with many of the papers piled on your desk, stick a dozen colleagues' initials on 'em, and pass them along. When in doubt, route."	Malcolm Forbes</item>
+<item>"The beginning is the most important part of the work."	Plato</item>
+<item>"If women are expected to do the same work as men, we must teach them the same things."	Plato</item>
+<item>"When you work seven days a week, fourteen hours a day, you get lucky."	Armand Hammer</item>
+<item>"The days you work are the best days."	Georgia O'Keefe</item>
+<item>"When nothing seems to help, I go and look at a stonecutter hammering away at his rock perhaps a hundred times without as much as a crack showing in it. Yet at the hundred and first blow it will split in two, and I know it was not that blow that did it, but all that had gone before."	Jacob August Riis</item>
+<item>"Thinking is the hardest work there is, which is the probable reason why so few engage in it."	Henry Ford</item>
+<item>"The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it."	Elbert Hubbard</item>
+<item>"If God is satisfied with the work, the work may be satisfied with itself."	C.S. Lewis</item>
+<item>"I am a strong believer in luck and I find the harder I work the more I have of it."	Benjamin Franklin</item>
 </array>
 
 <array name="bible">
