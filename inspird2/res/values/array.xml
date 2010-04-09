@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <array name="quotes">
-<item>Place some quotes in here with the author like:</item>
 <item>"My experience is that as soon as people are old enough to know better, they don't know anything at all."	Oscar Wilde</item>
 <item>"No woman should ever be quite accurate about her age. It looks so calculating."	Oscar Wilde</item>
 <item>"Well enough for old folks to rise early, because they have done so many mean things all their lives they can't sleep anyhow."	Mark Twain</item>
@@ -579,8 +578,371 @@
 </array>
 
 <array name="bible">
-<item>Put Bible Verses Here (KJV Only)</item>
-<item>"Then Peter said unto them, repent, be baptized, every one of you in the name of Jesus Christ for the remission of your sins and ye shall receive the gift of the Holy Ghost" -Acts 2:28 (KJV)</item>
+<item>And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him. (Genesis 2:18)</item>
+<item>And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh. (Genesis 2:23-24)</item>
+<item>In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. (Genesis 3:19)</item>
+<item>Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man. (Genesis 9:6)</item>
+<item>Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD. (Leviticus 19:18)</item>
+<item>The LORD bless thee, and keep thee: The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace. (Numbers 6:24-26)</item>
+<item>(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them. (Deuteronomy 4:31)</item>
+<item>But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day. (Deuteronomy 8:18)</item>
+<item>And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul, (Deuteronomy 10:12)</item>
+<item>The secret things belong unto the LORD our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law. (Deuteronomy 29:29)</item>
+<item>Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee. (Deuteronomy 31:6)</item>
+<item>Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest. (Joshua 1:9)</item>
+<item>But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart. (1 Samuel 16:7)</item>
+<item>And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself: (1 Kings 2:3)</item>
+<item>And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off. (1 Kings 20:11)</item>
+<item>But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies. (2 Kings 17:39)</item>
+<item>Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all. (1 Chronicles 29:12)</item>
+<item>If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land. (2 Chronicles 7:14)</item>
+<item>Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded. (2 Chronicles 15:7)</item>
+<item>For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him. (2 Chronicles 30:9)</item>
+<item>...Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD. (Job 1:21)</item>
+<item>Even as I have seen, they that plow iniquity, and sow wickedness, reap the same. (Job 4:8)</item>
+<item>They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought. (Job 8:22)</item>
+<item>But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee: Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee. (Job 12:7-8)</item>
+<item>How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger. (Job 21:17)</item>
+<item>No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies. (Job 28:18)</item>
+<item>I was eyes to the blind, and feet was I to the lame. (Job 29:15)</item>
+<item>I said, Days should speak, and multitude of years should teach wisdom. (Job 32:7)</item>
+<item>Great men are not always wise: neither do the aged understand judgment. (Job 32:9)</item>
+<item>If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures. (Job 36:11)</item>
+<item>With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; (Psalms 18:25)</item>
+<item>The heavens declare the glory of God; and the firmament sheweth his handywork. (Psalms 19:1)</item>
+<item>The LORD is my shepherd; I shall not want. (Psalms 23:1)</item>
+<item>He maketh me to lie down in green pastures: he leadeth me beside the still waters. (Psalms 23:2)</item>
+<item>Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me. (Psalms 23:4)</item>
+<item>Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness. (Psalms 30:4)</item>
+<item>Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah. (Psalms 32:7)</item>
+<item>Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about. (Psalms 32:10)</item>
+<item>The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing. (Psalms 34:10)</item>
+<item>Keep thy tongue from evil, and thy lips from speaking guile. (Psalms 34:13)</item>
+<item>Depart from evil, and do good; seek peace, and pursue it. (Psalms 34:14)</item>
+<item>Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity. (Psalms 37:1)</item>
+<item>Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass. (Psalms 37:7)</item>
+<item>A little that a righteous man hath is better than the riches of many wicked. (Psalms 37:16)</item>
+<item>Mark the perfect man, and behold the upright: for the end of that man is peace. (Psalms 37:37)</item>
+<item>LORD, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am. (Psalms 39:4)</item>
+<item>Blessed is he that considereth the poor: the LORD will deliver him in time of trouble. (Psalms 41:1)</item>
+<item>God is our refuge and strength, a very present help in trouble. (Psalms 46:1)</item>
+<item>Create in me a clean heart, O God; and renew a right spirit within me. (Psalms 51:10)</item>
+<item>Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved. (Psalms 55:22)</item>
+<item>In God have I put my trust: I will not be afraid what man can do unto me. (Psalms 56:11)</item>
+<item>Truly my soul waiteth upon God: from him cometh my salvation. (Psalms 62:1)</item>
+<item>In God is my salvation and my glory: the rock of my strength, and my refuge, is in God. (Psalms 62:7)</item>
+<item>My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever. (Psalms 73:26)</item>
+<item>For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly. (Psalms 84:11)</item>
+<item>The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon. (Psalms 92:12)</item>
+<item>The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea. (Psalms 93:4)</item>
+<item>He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight. (Psalms 101:7)</item>
+<item>But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children; (Psalms 103:17)</item>
+<item>Thy word is a lamp unto my feet, and a light unto my path. (Psalms 119:105)</item>
+<item>Behold, how good and how pleasant it is for brethren to dwell together in unity! (Psalms 133:1)</item>
+<item>The LORD upholdeth all that fall, and raiseth up all those that be bowed down. (Psalms 145:14)</item>
+<item>The LORD is nigh unto all them that call upon him, to all that call upon him in truth. (Psalms 145:18)</item>
+<item>My son, if sinners entice thee, consent thou not. (Proverbs 1:10)</item>
+<item>Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart: (Proverbs 3:3)</item>
+<item>Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths. (Proverbs 3:5-6)</item>
+<item>Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding. (Proverbs 4:7)</item>
+<item>But the path of the just is as the shining light, that shineth more and more unto the perfect day. (Proverbs 4:18)</item>
+<item>Go to the ant, thou sluggard; consider her ways, and be wise: (Proverbs 6:6)</item>
+<item>Can a man take fire in his bosom, and his clothes not be burned? Can one go upon hot coals, and his feet not be burned? (Proverbs 6:27-28)</item>
+<item>For wisdom is better than rubies; and all the things that may be desired are not to be compared to it. (Proverbs 8:11)</item>
+<item>Forsake the foolish, and live; and go in the way of understanding. (Proverbs 9:6)</item>
+<item>The labour of the righteous tendeth to life: the fruit of the wicked to sin. (Proverbs 10:16)</item>
+<item>A false balance is abomination to the LORD: but a just weight is his delight. (Proverbs 11:1)</item>
+<item>When pride cometh, then cometh shame: but with the lowly is wisdom. (Proverbs 11:2)</item>
+<item>The merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh. (Proverbs 11:17)</item>
+<item>Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered. (Proverbs 11:21)</item>
+<item>The liberal soul shall be made fat: and he that watereth shall be watered also himself. (Proverbs 11:25)</item>
+<item>He that trusteth in his riches shall fall; but the righteous shall flourish as a branch. (Proverbs 11:28)</item>
+<item>A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him. (Proverbs 12:14)</item>
+<item>Lying lips are abomination to the LORD: but they that deal truly are his delight. (Proverbs 12:22)</item>
+<item>The hand of the diligent shall bear rule: but the slothful shall be under tribute. (Proverbs 12:24)</item>
+<item>Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life. (Proverbs 13:12)</item>
+<item>He that walketh with wise men shall be wise: but a companion of fools shall be destroyed. (Proverbs 13:20)</item>
+<item>He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes. (Proverbs 13:24)</item>
+<item>Fools make a mock at sin: but among the righteous there is favour. (Proverbs 14:9)</item>
+<item>The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy. (Proverbs 14:10)</item>
+<item>He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he. (Proverbs 14:21)</item>
+<item>The wicked is driven away in his wickedness: but the righteous hath hope in his death. (Proverbs 14:32)</item>
+<item>A soft answer turneth away wrath: but grievous words stir up anger. (Proverbs 15:1)</item>
+<item>In the house of the righteous is much treasure: but in the revenues of the wicked is trouble. (Proverbs 15:6)</item>
+<item>A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken. (Proverbs 15:13)</item>
+<item>Better is a dinner of herbs where love is, than a stalled ox and hatred therewith. (Proverbs 15:17)</item>
+<item>A wise son maketh a glad father: but a foolish man despiseth his mother. (Proverbs 15:20)</item>
+<item>A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it! (Proverbs 15:23)</item>
+<item>He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding. (Proverbs 15:32)</item>
+<item>Commit thy works unto the LORD, and thy thoughts shall be established. (Proverbs 16:3)</item>
+<item>When a man's ways please the LORD, he maketh even his enemies to be at peace with him. (Proverbs 16:7)</item>
+<item>Pride goeth before destruction, and an haughty spirit before a fall. (Proverbs 16:18)</item>
+<item>A froward man soweth strife: and a whisperer separateth chief friends. (Proverbs 16:28)</item>
+<item>The hoary head is a crown of glory, if it be found in the way of righteousness. (Proverbs 16:31)</item>
+<item>He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city. (Proverbs 16:32)</item>
+<item>Whoso rewardeth evil for good, evil shall not depart from his house. (Proverbs 17:13)</item>
+<item>A merry heart doeth good like a medicine: but a broken spirit drieth the bones. (Proverbs 17:22)</item>
+<item>Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth. (Proverbs 17:24)</item>
+<item>He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit. (Proverbs 17:27)</item>
+<item>Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding. (Proverbs 17:28)</item>
+<item>Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD. (Proverbs 18:22)</item>
+<item>Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool. (Proverbs 19:1)</item>
+<item>Wealth maketh many friends; but the poor is separated from his neighbour. (Proverbs 19:4)</item>
+<item>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression. (Proverbs 19:11)</item>
+<item>He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again. (Proverbs 19:17)</item>
+<item>Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise. (Proverbs 20:1)</item>
+<item>The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing. (Proverbs 20:4)</item>
+<item>Even a child is known by his doings, whether his work be pure, and whether it be right. (Proverbs 20:11)</item>
+<item>To do justice and judgment is more acceptable to the LORD than sacrifice. (Proverbs 21:3)</item>
+<item>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard. (Proverbs 21:13)</item>
+<item>There is no wisdom nor understanding nor counsel against the LORD. (Proverbs 21:30)</item>
+<item>A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold. (Proverbs 22:1)</item>
+<item>The rich and poor meet together: the LORD is the maker of them all. (Proverbs 22:2)</item>
+<item>Train up a child in the way he should go: and when he is old, he will not depart from it. (Proverbs 22:6)</item>
+<item>Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him. (Proverbs 22:15)</item>
+<item>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want. (Proverbs 22:16)</item>
+<item>When thou sittest to eat with a ruler, consider diligently what is before thee: And put a knife to thy throat, if thou be a man given to appetite. (Proverbs 23:1-2)</item>
+<item>Labour not to be rich: cease from thine own wisdom. (Proverbs 23:4)</item>
+<item>Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven. (Proverbs 23:5)</item>
+<item>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee. (Proverbs 23:7)</item>
+<item>The father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him. (Proverbs 23:24)</item>
+<item>Be not thou envious against evil men, neither desire to be with them. (Proverbs 24:1)</item>
+<item>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief. (Proverbs 24:16)</item>
+<item>Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth: (Proverbs 24:17)</item>
+<item>Be not a witness against thy neighbour without cause; and deceive not with thy lips. (Proverbs 24:28)</item>
+<item>Say not, I will do so to him as he hath done to me: I will render to the man according to his work. (Proverbs 24:29)</item>
+<item>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink: For thou shalt heap coals of fire upon his head, and the LORD shall reward thee. (Proverbs 25:21-22)</item>
+<item>Answer not a fool according to his folly, lest thou also be like unto him. (Proverbs 26:4)</item>
+<item>Seest thou a man wise in his own conceit? there is more hope of a fool than of him. (Proverbs 26:12)</item>
+<item>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth. (Proverbs 26:20)</item>
+<item>Boast not thyself of to morrow; for thou knowest not what a day may bring forth. (Proverbs 27:1)</item>
+<item>Faithful are the wounds of a friend; but the kisses of an enemy are deceitful. (Proverbs 27:6)</item>
+<item>The wicked flee when no man pursueth: but the righteous are bold as a lion. (Proverbs 28:1)</item>
+<item>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy. (Proverbs 28:13)</item>
+<item>A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent. (Proverbs 28:20)</item>
+<item>He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat. (Proverbs 28:25)</item>
+<item>The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame. (Proverbs 29:15)</item>
+<item>She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy. (Proverbs 31:20)</item>
+<item>He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor. (Proverbs 144:31)</item>
+<item>The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. (Ecclesiastes 1:9)</item>
+<item>I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit. (Ecclesiastes 1:14)</item>
+<item>To every thing there is a season, and a time to every purpose under the heaven: (Ecclesiastes 3:1)</item>
+<item>I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him. (Ecclesiastes 3:14)</item>
+<item>Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few. (Ecclesiastes 5:2)</item>
+<item>He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity. (Ecclesiastes 5:10)</item>
+<item>The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep. (Ecclesiastes 5:12)</item>
+<item>A good name is better than precious ointment; and the day of death than the day of one's birth. (Ecclesiastes 7:1)</item>
+<item>It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. (Ecclesiastes 7:2)</item>
+<item>Sorrow is better than laughter: for by the sadness of the countenance the heart is made better. (Ecclesiastes 7:3)</item>
+<item>It is better to hear the rebuke of the wise, than for a man to hear the song of fools. (Ecclesiastes 7:5)</item>
+<item>Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ? (Ecclesiastes 7:16)</item>
+<item>For to him that is joined to all the living there is hope: for a living dog is better than a dead lion. (Ecclesiastes 9:4)</item>
+<item>Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest. (Ecclesiastes 9:10)</item>
+<item>I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. (Ecclesiastes 9:11)</item>
+<item>Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun: But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity. (Ecclesiastes 11:7-8)</item>
+<item>Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it. (Ecclesiastes 12:7)</item>
+<item>Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them! (Isaiah 5:11)</item>
+<item>Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter! (Isaiah 5:20)</item>
+<item>Woe unto them that are wise in their own eyes, and prudent in their own sight! (Isaiah 5:21)</item>
+<item>The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. (Isaiah 11:6)</item>
+<item>Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation. (Isaiah 12:2)</item>
+<item>And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible. (Isaiah 13:11)</item>
+<item>And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever. (Isaiah 32:17)</item>
+<item>Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing. (Isaiah 40:15)</item>
+<item>Even the youths shall faint and be weary, and the young men shall utterly fall: But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. (Isaiah 40:30-31)</item>
+<item>Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. (Isaiah 41:10)</item>
+<item>No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD. (Isaiah 54:17)</item>
+<item>Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon. (Isaiah 55:7)</item>
+<item>For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts. (Isaiah 55:8-9)</item>
+<item>Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour's service without wages, and giveth him not for his work; (Jeremiah 22:13)</item>
+<item>The LORD is good unto them that wait for him, to the soul that seeketh him. (Lamentations 3:25)</item>
+<item>It is good for a man that he bear the yoke in his youth. (Lamentations 3:27)</item>
+<item>The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him. (Ezekiel 18:20)</item>
+<item>He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God? (Micah 6:8)</item>
+<item>Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness! (Habakkuk 2:15)</item>
+<item>These are the things that ye shall do; Speak ye every man the truth to his neighbour; execute the judgment of truth and peace in your gates: (Zechariah 8:16)</item>
+<item>Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers? (Malachi 2:10)</item>
+<item>But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. (Malachi 4:2)</item>
+<item>...Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. (Matthew 4:4)</item>
+<item>Blessed are the poor in spirit: for theirs is the kingdom of heaven. (Matthew 5:3)</item>
+<item>Blessed are they that mourn: for they shall be comforted. (Matthew 5:4)</item>
+<item>Blessed are the meek: for they shall inherit the earth. (Matthew 5:5)</item>
+<item>Blessed are they which do hunger and thirst after righteousness: for they shall be filled. (Matthew 5:6)</item>
+<item>Blessed are the merciful: for they shall obtain mercy. (Matthew 5:7)</item>
+<item>Blessed are the pure in heart: for they shall see God. (Matthew 5:8)</item>
+<item>Blessed are the peacemakers: for they shall be called the children of God. (Matthew 5:9)</item>
+<item>Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men. (Matthew 5:13)</item>
+<item>Ye are the light of the world. A city that is set on an hill cannot be hid. (Matthew 5:14)</item>
+<item>Ye have heard that it was said by them of old time, Thou shalt not commit adultery: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart. (Matthew 5:27-28)</item>
+<item>Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also. (Matthew 5:38-39)</item>
+<item>Give to him that asketh thee, and from him that would borrow of thee turn not thou away. (Matthew 5:42)</item>
+<item>Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; (Matthew 5:43-44)</item>
+<item>But when thou doest alms, let not thy left hand know what thy right hand doeth: (Matthew 6:3)</item>
+<item>But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. (Matthew 6:7)</item>
+<item>For if ye forgive men their trespasses, your heavenly Father will also forgive you: (Matthew 6:14)</item>
+<item>Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: (Matthew 6:19-20)</item>
+<item>For where your treasure is, there will your heart be also. (Matthew 6:21)</item>
+<item>No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. (Matthew 6:24)</item>
+<item>Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? (Matthew 6:25-26)</item>
+<item>But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matthew 6:33)</item>
+<item>Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof. (Matthew 6:34)</item>
+<item>Judge not, that ye be not judged. (Matthew 7:1)</item>
+<item>Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you. (Matthew 7:6)</item>
+<item>Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: (Matthew 7:7)</item>
+<item>Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. (Matthew 7:12)</item>
+<item>Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved. (Matthew 9:17)</item>
+<item>Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves. (Matthew 10:16)</item>
+<item>And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved. (Matthew 10:22)</item>
+<item>And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell. (Matthew 10:28)</item>
+<item>Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven. (Matthew 10:32-33)</item>
+<item>Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light. (Matthew 11:28-30)</item>
+<item>Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit. (Matthew 12:33)</item>
+<item>...And if the blind lead the blind, both shall fall into the ditch. (Matthew 15:14)</item>
+<item>But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men. (Matthew 16:23)</item>
+<item>And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. (Matthew 17:20)</item>
+<item>Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. (Matthew 18:19)</item>
+<item>And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery. (Matthew 19:9)</item>
+<item>But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible. (Matthew 19:26)</item>
+<item>For many are called, but few are chosen. (Matthew 22:14)</item>
+<item>They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's. (Matthew 22:21)</item>
+<item>Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment.And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets. (Matthew 22:37-40)</item>
+<item>And call no man your father upon the earth: for one is your Father, which is in heaven. (Matthew 23:9)</item>
+<item>For this is my blood of the new testament, which is shed for many for the remission of sins. (Matthew 26:28)</item>
+<item>Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak. (Matthew 26:41)</item>
+<item>Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword. (Matthew 26:52)</item>
+<item>And he said unto them, The sabbath was made for man, and not man for the sabbath: Therefore the Son of man is Lord also of the sabbath. (Mark 2:27-28)</item>
+<item>And if a house be divided against itself, that house cannot stand. (Mark 3:25)</item>
+<item>And he said unto them, He that hath ears to hear, let him hear. (Mark 4:9)</item>
+<item>For what shall it profit a man, if he shall gain the whole world, and lose his own soul? (Mark 8:36)</item>
+<item>Jesus said unto him, If thou canst believe, all things are possible to him that believeth. (Mark 9:23)</item>
+<item>And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all. (Mark 9:35)</item>
+<item>And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched: (Mark 9:43)</item>
+<item>What therefore God hath joined together, let not man put asunder. (Mark 10:9)</item>
+<item>But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God. (Mark 10:14)</item>
+<item>Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein. (Mark 10:15)</item>
+<item>And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses. (Mark 11:25)</item>
+<item>For with God nothing shall be impossible. (Luke 1:37)</item>
+<item>And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. (Luke 4:8)</item>
+<item>And as ye would that men should do to you, do ye also to them likewise. (Luke 6:31)</item>
+<item>But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil. (Luke 6:35)</item>
+<item>Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again. (Luke 6:38)</item>
+<item>And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth. (Luke 12:15)</item>
+<item>I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance. (Luke 15:7)</item>
+<item>Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him. (Luke 17:3)</item>
+<item>And the apostles said unto the Lord, Increase our faith. And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you. (Luke 17:5-6)</item>
+<item>For it is easier for a camel to go through a needle's eye, than for a rich man to enter into the kingdom of God. (Luke 18:25)</item>
+<item>In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1)</item>
+<item>The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. (John 1:29)</item>
+<item>Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. (John 3:3)</item>
+<item>The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. (John 3:8)</item>
+<item>For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. (John 3:16)</item>
+<item>God is a Spirit: and they that worship him must worship him in spirit and in truth. (John 4:24)</item>
+<item>Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life. (John 5:24)</item>
+<item>And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day. (John 6:40)</item>
+<item>Judge not according to the appearance, but judge righteous judgment. (John 7:24)</item>
+<item>Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life. (John 8:12)</item>
+<item>Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32)</item>
+<item>Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live: And whosoever liveth and believeth in me shall never die. Believest thou this? (John 11:25-26)</item>
+<item>Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me. (John 14:6)</item>
+<item>I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. (John 15:5)</item>
+<item>Greater love hath no man than this, that a man lay down his life for his friends. (John 15:13)</item>
+<item>If the world hate you, ye know that it hated me before it hated you. (John 15:18)</item>
+<item>Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. (Acts 2:38)</item>
+<item>...It is more blessed to give than to receive. (Acts 20:35)</item>
+<item>But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by his blood, we shall be saved from wrath through him. (Romans 5:8-9)</item>
+<item>For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Romans 6:23)</item>
+<item>And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Romans 8:28)</item>
+<item>For whosoever shall call upon the name of the Lord shall be saved. (Romans 10:13)</item>
+<item>So we, being many, are one body in Christ, and every one members one of another. (Romans 12:5)</item>
+<item>Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits. (Romans 12:16)</item>
+<item>Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. (Romans 12:20)</item>
+<item>Be not overcome of evil, but overcome evil with good. (Romans 12:21)</item>
+<item>Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. (Romans 13:1)</item>
+<item>Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour. (Romans 13:7)</item>
+<item>Love worketh no ill to his neighbour: therefore love is the fulfilling of the law. (Romans 13:10)</item>
+<item>And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin. (Romans 14:23)</item>
+<item>For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope. (Romans 15:4)</item>
+<item>Wherefore receive ye one another, as Christ also received us to the glory of God. (Romans 15:7)</item>
+<item>I have planted, Apollos watered; but God gave the increase. (1 Corinthians 3:6)</item>
+<item>Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? (1 Corinthians 3:16)</item>
+<item>Wherefore let him that thinketh he standeth take heed lest he fall. (1 Corinthians 10:12)</item>
+<item>There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1 Corinthians 10:13)</item>
+<item>Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. (1 Corinthians 10:31)</item>
+<item>Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; Beareth all things, believeth all things, hopeth all things, endureth all things. (1 Corinthians 13:4-7)</item>
+<item>When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. (1 Corinthians 13:11)</item>
+<item>And now abideth faith, hope, charity, these three; but the greatest of these is charity. (1 Corinthians 13:13)</item>
+<item>Be not deceived: evil communications corrupt good manners. (1 Corinthians 15:33)</item>
+<item>...We walk by faith, not by sight. (2 Corinthians 5:7)</item>
+<item>Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness? (2 Corinthians 6:14)</item>
+<item>And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: (2 Corinthians 9:8)</item>
+<item>Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not herit the kingdom of God. (Galatians 5:19-21)</item>
+<item>But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law. (Galatians 5:22-23)</item>
+<item>Bear ye one another's burdens, and so fulfil the law of Christ. (Galatians 6:2)</item>
+<item>For every man shall bear his own burden. (Galatians 6:5)</item>
+<item>Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. (Galatians 6:7)</item>
+<item>And let us not be weary in well doing: for in due season we shall reap, if we faint not. (Galatians 6:9)</item>
+<item>As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith. (Galatians 6:10)</item>
+<item>For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. (Ephesians 2:8-9)</item>
+<item>For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. (Ephesians 2:10)</item>
+<item>Be ye angry, and sin not: let not the sun go down upon your wrath: (Ephesians 4:26)</item>
+<item>Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience. (Ephesians 5:6)</item>
+<item>And be not drunk with wine, wherein is excess; but be filled with the Spirit; (Ephesians 5:18)</item>
+<item>Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves. (Philippians 2:3)</item>
+<item>And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. (Philippians 4:7)</item>
+<item>As ye have therefore received Christ Jesus the Lord, so walk ye in him: (Colossians 2:6)</item>
+<item>Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Colossians 2:8)</item>
+<item>Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye. (Colossians 3:13)</item>
+<item>And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him. (Colossians 3:17)</item>
+<item>And whatsoever ye do, do it heartily, as to the Lord, and not unto men; (Colossians 3:23)</item>
+<item>Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man. (Colossians 4:6)</item>
+<item>And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you: (1 Thessalonians 3:12)</item>
+<item>Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men. (1 Thessalonians 5:14)</item>
+<item>Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you. (1 Thessalonians 5:16-18)</item>
+<item>But we know that the law is good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers. (1 Timothy 1:8-9)</item>
+<item>For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward. (1 Timothy 5:18)</item>
+<item>For we brought nothing into this world, and it is certain we can carry nothing out. (1 Timothy 6:7)</item>
+<item>For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. (1 Timothy 6:10)</item>
+<item>O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called: Which some professing have erred concerning the faith. Grace be with thee. Amen. (1 Timothy 6:20-21)</item>
+<item>Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus. (2 Timothy 1:13)</item>
+<item>Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. But shun profane and vain babblings: for they will increase unto more ungodliness. (2 Timothy 2:15-16)</item>
+<item>I have fought a good fight, I have finished my course, I have kept the faith: (2 Timothy 4:7)</item>
+<item>Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled. (Titus 1:15)</item>
+<item>Now faith is the substance of things hoped for, the evidence of things not seen. (Hebrews 11:1)</item>
+<item>But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. (Hebrews 11:6)</item>
+<item>...My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. (Hebrews 12:5-6)</item>
+<item>Be not forgetful to entertain strangers: for thereby some have entertained angels unawares. (Hebrews 13:2)</item>
+<item>Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. (Hebrews 13:4)</item>
+<item>Jesus Christ the same yesterday, and to day, and for ever. (Hebrews 13:8)</item>
+<item>If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. (James 1:5)</item>
+<item>Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. (James 1:12)</item>
+<item>Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God. (James 1:19-20)</item>
+<item>If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man's religion is vain. (James 1:26)</item>
+<item>For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment. (James 2:13)</item>
+<item>For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind: But the tongue can no man tame; it is an unruly evil, full of deadly poison. (James 3:7-8)</item>
+<item>For where envying and strife is, there is confusion and every evil work. (James 3:16)</item>
+<item>Submit yourselves therefore to God. Resist the devil, and he will flee from you. (James 4:7)</item>
+<item>Is any among you afflicted? let him pray. Is any merry? let him sing psalms. (James 5:13)</item>
+<item>Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. (James 5:16)</item>
+<item>Honour all men. Love the brotherhood. Fear God. Honour the king. (1 Peter 2:17)</item>
+<item>Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. (1 Peter 2:24)</item>
+<item>Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous: Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing. (1 Peter 3:8-9)</item>
+<item>For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile: (1 Peter 3:10)</item>
+<item>And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. (1 Peter 4:8)</item>
+<item>Use hospitality one to another without grudging. (1 Peter 4:9)</item>
+<item>Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: Casting all your care upon him; for he careth for you. (1 Peter 5:6-7)</item>
+<item>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Peter 5:8)</item>
+<item>We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. (2 Peter 1:19-20)</item>
+<item>The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. (2 Peter 3:9)</item>
+<item>But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. (2 Peter 3:10)</item>
+<item>If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. (1 John 1:9)</item>
+<item>He that saith he is in the light, and hateth his brother, is in darkness even until now. (1 John 2:9)</item>
+<item>Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. (1 John 2:15)</item>
+<item>Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him. (1 John 3:15)</item>
+<item>But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? (1 John 3:17)</item>
+<item>There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love. (1 John 4:1)</item>
+<item>And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. (Revelation 21:4)</item>
+<item>And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely. (Revelation 21:6)</item>
+<item>I am Alpha and Omega, the beginning and the end, the first and the last. (Revelation 22:13)</item>
 </array>
 
 </resources>
