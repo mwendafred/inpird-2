@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  android:id="@+id/about"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical">
+  
+	<TextView
+		android:id="@+id/about"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:layout_weight="5"
+		android:text="Inspird v2.0 by TheNerdTV\n Developed in Eclipse\n All Content is Open Source\n\n Special Thanks To:\n\n Charles Zink (TheNerdTV) - Code\n Mike Banks (banks1359) - Code &amp; Quotes\n Jon (ShakataGaNai) - Popup Code\n Colton Terrill - Beta Testing\n\n www.android.thenerdtv.com"
+		/>
+	<Button 
+		android:text="Touch To Visit Site" 
+		android:id="@+id/VisitSite" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_weight="0"
+		/>
+</LinearLayout>
